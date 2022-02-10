@@ -3,6 +3,16 @@ entries:
   mychart:
   - apiVersion: v2
     appVersion: 1.16.0
+    created: "2022-02-10T11:45:15.106221083Z"
+    description: A Helm chart for Kubernetes
+    digest: a7a1e9fefd67308fecb5bbf6297c24008406c0b5b808692043dfd856bbcfe374
+    name: mychart
+    type: application
+    urls:
+    - https://github.com/fberlin/my-helm-charts/releases/download/mychart-14.0.42/mychart-14.0.42.tgz
+    version: 14.0.42
+  - apiVersion: v2
+    appVersion: 1.16.0
     created: "2022-02-10T11:38:17.596909449Z"
     description: A Helm chart for Kubernetes
     digest: 0dec01cba79e85036cb808045226edc21515c8517b8c95b1b1a043a7fabe49c9
